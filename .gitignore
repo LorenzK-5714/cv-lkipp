@@ -10,9 +10,6 @@
 *.lot
 *.lol
 
-# PDFs and other output
-*.pdf
-
 # Other misc
 *.bbl
 *.blg
